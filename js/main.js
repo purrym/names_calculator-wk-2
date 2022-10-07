@@ -1,10 +1,10 @@
 var CC, YY, MM, DD, d, dayValue;
 
-var dayWeekNames = ["Sunday","Monday","Tuesday","Wednesday", "Thursday", "Friday","Saturday" ];
+const dayWeekNames = ["Sunday","Monday","Tuesday","Wednesday", "Thursday", "Friday","Saturday" ];
 
-var maleAkanNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw", "Kofi","Kwame"];
+const maleAkanNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw", "Kofi","Kwame"];
 
-var femaleAkanNames = ["Akosua","Adwoa","Abenaa","Akua"," Yaa","Afua","Ama"];
+const femaleAkanNames = ["Akosua","Adwoa","Abenaa","Akua"," Yaa","Afua","Ama"];
 
  
 
