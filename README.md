@@ -1,6 +1,10 @@
 ### **Akan Name Generator** by purity munene
 _This project features a generator that derives an Akan names with regard to the day of the week that a user was born and their gender._
 
+### Finished Product 
+
+<img width="300"  src="https://user-images.githubusercontent.com/113089101/194957189-5c61d3d2-0928-4407-808f-01a1e20c814c.png" alt="finished product">
+
 
 #### **Description**
 _In many parts of Ghana, and elsewhere in West Africa, a person’s name is determined by the day of the week on which she/he was born._
