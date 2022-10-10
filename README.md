@@ -29,7 +29,7 @@ Correct Akan name to match day of the week. Example Ama - Female born on a Satur
 
 #### **Contact**
 If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: wanjira.purity@gmail.com to make a contribution to the code or for any assistance on the app/project.
->Live Link: 
+>Live Link: https://purrym.github.io/names_calculator-wk-2/
 
 #### **Copyright & License**
 The License used is GPL_
